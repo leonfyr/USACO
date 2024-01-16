@@ -1,3 +1,4 @@
+// https://www.luogu.com.cn/problem/P9012
 #include<bits/stdc++.h>
 using namespace std;
 int m;
@@ -28,7 +29,7 @@ inline void process(string x){
     }else{
         cout<<add+base<<endl;
     }
-}
+}https://literate-fortnight-9w6666j6rqw2jj7.github.dev/
 int main(){
     cin>>m;
     while(m--){

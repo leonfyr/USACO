@@ -11,3 +11,4 @@ int main(){
     cout<<a[6] - a[0] - a[1]<<endl;
     return 0;
 }
+testline
